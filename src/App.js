@@ -23,12 +23,6 @@ class App extends Component {
           </AppBar>
         <body>
             <Inventory />
-            <div>
-                <span>
-                    {this.props.children}
-                </span>
-                <Alert stack={{limit: 3}} />
-            </div>
         </body>
       </div>
     );
