@@ -1,0 +1,42 @@
+.Counter > .Top >.Arrow {
+    background-color: white;
+    width: 100%;
+    border: white;
+    height: 100%;
+
+  }
+
+  .Counter > .Top {
+    text-align: center;
+    background-color: white;
+    color: black;
+    width: 100%;
+  
+  }
+
+  .Counter {
+  
+    width: 45%;
+    float: left;
+    margin: 25px;
+    
+  }
+
+  .Counter > .Bottom > .Text {
+    float: left;
+  }
+  
+
+  .Counter > .Bottom {
+    width: 100%;
+    background-color: white;
+    float: left;
+  }
+  .Counter >.Bottom >.Botton {
+    float: right;
+    margin: 5px;
+  }
+
+  p {
+      font-size: 50px;
+  }

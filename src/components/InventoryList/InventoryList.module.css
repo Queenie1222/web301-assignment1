@@ -1,0 +1,20 @@
+table {
+  background-color: white;
+  width: 45%;
+  text-align: center;
+  float: Right;
+  color: black;
+  margin: 25px;
+}
+
+
+.Header {
+  background-color: black;
+  color: white;
+}
+
+.Data{
+  background-color: white;
+  text-align: center;
+  color: black;
+}
